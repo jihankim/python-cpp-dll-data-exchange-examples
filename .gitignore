@@ -1,0 +1,14 @@
+*.exp
+*.ilk
+*.lib
+*.pdb
+*.opensdf
+*.sdf
+*.ipch
+*.tlog
+*.log
+*.pch
+*.obj
+*.idb
+*.suo
+.vscode
